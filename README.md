@@ -1,4 +1,5 @@
 # kmeans-clustering-imagery-analysis
+![inferred label](https://user-images.githubusercontent.com/41353789/59682457-ef564680-91f3-11e9-95f2-798e67d195d7.PNG)
 data set can be download 
 from http://yann.lecun.com/exdb/mnist/.
 process taken
